@@ -1,0 +1,14 @@
+/Users/tunc/Documents/C#/CustomMiddlewares/bin/Debug/netcoreapp2.2/CustomMiddlewares.deps.json
+/Users/tunc/Documents/C#/CustomMiddlewares/bin/Debug/netcoreapp2.2/CustomMiddlewares.runtimeconfig.json
+/Users/tunc/Documents/C#/CustomMiddlewares/bin/Debug/netcoreapp2.2/CustomMiddlewares.runtimeconfig.dev.json
+/Users/tunc/Documents/C#/CustomMiddlewares/bin/Debug/netcoreapp2.2/CustomMiddlewares.dll
+/Users/tunc/Documents/C#/CustomMiddlewares/bin/Debug/netcoreapp2.2/CustomMiddlewares.pdb
+/Users/tunc/Documents/C#/CustomMiddlewares/obj/Debug/netcoreapp2.2/CustomMiddlewares.csprojAssemblyReference.cache
+/Users/tunc/Documents/C#/CustomMiddlewares/obj/Debug/netcoreapp2.2/CustomMiddlewares.csproj.CoreCompileInputs.cache
+/Users/tunc/Documents/C#/CustomMiddlewares/obj/Debug/netcoreapp2.2/CustomMiddlewares.RazorAssemblyInfo.cache
+/Users/tunc/Documents/C#/CustomMiddlewares/obj/Debug/netcoreapp2.2/CustomMiddlewares.RazorAssemblyInfo.cs
+/Users/tunc/Documents/C#/CustomMiddlewares/obj/Debug/netcoreapp2.2/CustomMiddlewares.AssemblyInfoInputs.cache
+/Users/tunc/Documents/C#/CustomMiddlewares/obj/Debug/netcoreapp2.2/CustomMiddlewares.AssemblyInfo.cs
+/Users/tunc/Documents/C#/CustomMiddlewares/obj/Debug/netcoreapp2.2/CustomMiddlewares.RazorTargetAssemblyInfo.cache
+/Users/tunc/Documents/C#/CustomMiddlewares/obj/Debug/netcoreapp2.2/CustomMiddlewares.dll
+/Users/tunc/Documents/C#/CustomMiddlewares/obj/Debug/netcoreapp2.2/CustomMiddlewares.pdb
